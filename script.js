@@ -1,3 +1,4 @@
+Content-Type: text/javascript
 // Import thư viện Axios
 // Bạn cần bao gồm Axios trong dự án của bạn hoặc có thể sử dụng CDN như dưới đây
 // <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
